@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:state_enabled="false"
+            android:drawable="@drawable/noimage"/>
+    <item
+            android:drawable="@drawable/search_view_ic_clear"/>
+</selector>
+<!-- From: file:/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/src/main/res/drawable/ic_clear.xml -->

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<com.squareup.timessquare.CalendarPickerView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/calendar_view"
+    style="@style/baseLayoutParam" /><!-- From: file:/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/src/main/res/layout/fragment_pick_date.xml -->

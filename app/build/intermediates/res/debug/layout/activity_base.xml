@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/baseLayoutParam"
+    android:orientation="vertical">
+
+    <include layout="@layout/toolbar" />
+
+    <FrameLayout
+        android:id="@+id/fragment_frame"
+        style="@style/baseLayoutParam" />
+
+</LinearLayout><!-- From: file:/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/src/main/res/layout/activity_base.xml -->

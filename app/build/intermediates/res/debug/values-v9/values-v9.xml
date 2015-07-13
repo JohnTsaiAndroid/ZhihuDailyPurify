@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/exploded-aar/com.squareup/android-times-square/1.5.0/res/values-v9/strings.xml -->
+    <eat-comment/>
+    <string name="month_name_format">LLLL yyyy</string>
+</resources>

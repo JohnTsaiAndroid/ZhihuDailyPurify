@@ -71,7 +71,7 @@ public class NewsListFragment extends Fragment
         llm.setOrientation(LinearLayoutManager.VERTICAL);
         mRecyclerView.setLayoutManager(llm);
 
-        mAdapter = new NewsAdapter(newsList);
+        mAdapter = new NewsAdapter(newsList,getActivity());
         mRecyclerView.setAdapter(mAdapter);
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) view.findViewById(R.id.swipe_refresh_layout);

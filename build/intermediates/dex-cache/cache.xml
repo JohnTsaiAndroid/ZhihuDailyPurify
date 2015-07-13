@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/pre-dexed/debug/classes-df1e59f805292a1bdee7bdfd94f2d10ad70bf843.jar" />
+    </item>
+    <item
+        jar="/Users/JohnTsai/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/pre-dexed/debug/gson-2.3-c044d519d8b2d57d64a8a0a45e46054c9733b5a5.jar" />
+    </item>
+    <item
+        jar="/Users/JohnTsai/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-db3fb3cb9796229ae873146d0524da9579f96f15.jar" />
+    </item>
+    <item
+        jar="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-83e18a66855b0c1b32587aa4a1d1f65792d503c5.jar" />
+    </item>
+    <item
+        jar="/Users/JohnTsai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-d547dfc05faacdf2cd6707c7ef4cecc403bd71a3.jar" />
+    </item>
+    <item
+        jar="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/pre-dexed/debug/classes-3fd40a7de16385d7cd21865917238db36a84ce34.jar" />
+    </item>
+    <item
+        jar="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/pre-dexed/debug/classes-1285816eca3a975579214936938730297ac5656e.jar" />
+    </item>
+    <item
+        jar="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/pre-dexed/debug/classes-3db332d62dc766563ca7aed4f39363bbffe8f647.jar" />
+    </item>
+    <item
+        jar="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.9/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ed2ab55be78d5d54ac9060d70d65a4573ae3d2ec">
+        <dex dex="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/pre-dexed/debug/classes-03fd79a7331aaf168c9ab46eb77a3b7952f08b3f.jar" />
+    </item>
+    <item
+        jar="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/exploded-aar/com.squareup/android-times-square/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="49a161d665861cd093b0b0ba2bfcfe791f1330ef">
+        <dex dex="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/pre-dexed/debug/classes-15631cb26f2aad866e8d264ee9e91205409d1dbc.jar" />
+    </item>
+    <item
+        jar="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/exploded-aar/com.eowise/recyclerview-stickyheaders/0.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bd665397d9b47a223c40cdbfb8143cf4f8880905">
+        <dex dex="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/pre-dexed/debug/classes-a1531e00665862243b18ad363312d0c0938aa29a.jar" />
+    </item>
+    <item
+        jar="/Users/JohnTsai/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.7.3/92568d7167ce1bf9eb1fd815b022d5a2c113547a/jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="92568d7167ce1bf9eb1fd815b022d5a2c113547a">
+        <dex dex="/Users/JohnTsai/AndroidStudioProjects/ZhihuDailyPurify/app/build/intermediates/pre-dexed/debug/jsoup-1.7.3-c29dd49d1d31edf2e797b0743f985429a888ee8c.jar" />
+    </item>
+
+</items>

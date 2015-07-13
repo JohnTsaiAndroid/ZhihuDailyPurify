@@ -31,9 +31,11 @@ import java.util.List;
 import io.github.izzyleung.zhihudailypurify.R;
 import io.github.izzyleung.zhihudailypurify.bean.DailyNews;
 import io.github.izzyleung.zhihudailypurify.support.Check;
+import io.github.izzyleung.zhihudailypurify.ui.activity.NewsDetailActivity;
 
 public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.CardViewHolder> {
     private List<DailyNews> newsList;
+    private Context context;
 
     private ImageLoader imageLoader = ImageLoader.getInstance();
     private DisplayImageOptions options = new DisplayImageOptions.Builder()
@@ -46,8 +48,9 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.CardViewHolder
             .build();
     private ImageLoadingListener animateFirstListener = new AnimateFirstDisplayListener();
 
-    public NewsAdapter(List<DailyNews> newsList) {
+    public NewsAdapter(List<DailyNews> newsList,Context context) {
         this.newsList = newsList;
+        this.context = context;
 
         setHasStableIds(true);
     }
@@ -72,7 +75,12 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.CardViewHolder
         return new CardViewHolder(itemView, new CardViewHolder.ClickResponseListener() {
             @Override
             public void onWholeClick(int position) {
-                browseOrShare(context, position, true);
+//                browseOrShare(context, position, true);
+                final DailyNews dailyNews = newsList.get(position);
+                Intent intent = new Intent(context, NewsDetailActivity.class);
+                intent.putExtra("questionUrl",dailyNews.getQuestionUrl());
+                intent.putExtra("imageUrl",dailyNews.getThumbnailUrl());
+                context.startActivity(intent);
             }
 
             @Override
